@@ -1,0 +1,16 @@
+body{
+    background-image: url('imgs/math.png');
+    height: 1200 px;
+
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+label{
+    color: rgb(197, 255, 255);
+
+}
+n{
+    color: rgb(255, 255, 255);
+
+}
